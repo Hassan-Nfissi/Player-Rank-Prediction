@@ -7,7 +7,6 @@ This project focuses on predicting the rank of Premier League players using mach
 - [Alorithm Used](#algorithm-used)
 - [Dataset](#dataset)
 - [Usage](#Usage)
-- [File Structure](#File-Structure)
 - [Deployment](#Deployment)
 ## Project Overview
 
@@ -49,7 +48,6 @@ You can download the dataset from [Kaggle](https://www.kaggle.com) or use any ot
 `python app.py`
 
 * And finally, through the terminal you will get a link to your application. By default it's : http://127.0.0.1:5000/.
-## File Structure
 ## Deployment
 This project has been deployed using a Flask web application, allowing users to interact with the model through a web interface. The deployment process involved:
 * **Web Interface**: The user interface is built with HTML, CSS, and JavaScript to allow users to input player data and get predictions.
