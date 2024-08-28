@@ -10,7 +10,7 @@ with open('model/model (1).pickle', 'rb') as file:
     model = pickle.load(file)
 
 # Charger les données de l'équipe
-with open('team.json', 'rb') as file:
+with open('model/team.json', 'rb') as file:
     team1 = json.load(file)
 
 

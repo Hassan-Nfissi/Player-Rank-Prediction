@@ -57,3 +57,4 @@ This project has been deployed using a Flask web application, allowing users to 
 * **Dockerization**: The entire application is containerized using Docker, making it easy to deploy and run on different environments.
 * **Azure Deployment**: The Docker container is deployed on Azure, making the application accessible over the web. Azure’s services ensure scalability and reliability of the deployed model.
 ## Screenshots"# Player-Rank-Prediction" 
+"# Player-Rank-Prediction" 
