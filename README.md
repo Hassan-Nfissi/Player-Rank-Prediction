@@ -7,7 +7,7 @@ This project focuses on predicting the rank of Premier League players using mach
 - [Alorithm Used](#algorithm-used)
 - [Dataset](#dataset)
 - [Usage](#Usage)
-- [File Structure](#File Structure)
+- [File Structure](#File-Structure)
 - [Deployment](#Deployment)
 ## Project Overview
 
@@ -56,8 +56,5 @@ This project has been deployed using a Flask web application, allowing users to 
 * **Flask Backend**: The Flask framework is used to handle requests, process inputs, and return the predicted player ranks.
 * **Dockerization**: The entire application is containerized using Docker, making it easy to deploy and run on different environments.
 * **Azure Deployment**: The Docker container is deployed on Azure, making the application accessible over the web. Azure’s services ensure scalability and reliability of the deployed model.
-## Screenshots"# Player-Rank-Prediction" 
-"# Player-Rank-Prediction" 
-"# Player-Rank-Prediction" 
-"# Player-Rank-Prediction" 
-"# Player-Rank-Prediction" 
+## Screenshots 
+![image_alt](https://github.com/Hassan-Nfissi/Player-Rank-Prediction/blob/55761e7fe7ab9c0a8533efb1fb5c52f080c75875/Screenshots/App's%20screenshots.png) 
